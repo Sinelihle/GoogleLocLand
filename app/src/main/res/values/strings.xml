@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleLocLand</string>
+    <string name="title_activity_home_map">HomeMapActivity</string>
+</resources>
